@@ -27,11 +27,12 @@ Here are some ideas to get you started:
 
 ---
 
-<--
+<!--
 - 🔭 I’m currently working on Vue,java and python
 - 🌱 I’m currently learning py and ML
 - 💬 Ask me about anything!
-- 📫 How to reach me: i@kohaku.xin -->
+- 📫 How to reach me: i@kohaku.xin 
+-->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
