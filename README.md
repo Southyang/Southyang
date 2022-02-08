@@ -2,11 +2,6 @@
 
 
 
-
-
-<!-- ### Hi there 👋 -->
-
-
 **Southyang/Southyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hello world, this is Southyang.
 ---
@@ -18,8 +13,8 @@
 ---
 For more detail, please visit <a href="https://southyang.cn">southyang.cn</a>
 
-- 🔭 I’m currently working on HTML,java and python
-- 🌱 I’m currently learning HarmonyOS and Vue
+- 🔭 I’m currently working on Vue,java and python
+- 🌱 I’m currently learning HarmonyOS and Springboot
 - 💬 Ask me about anything!
 - 📫 How to reach me: i@southyang.cn
 <!-- - 👯 I’m looking to collaborate on ... -->
