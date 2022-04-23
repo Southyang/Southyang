@@ -13,8 +13,8 @@
 ---
 For more detail, please visit <a href="https://southyang.cn">southyang.cn</a>
 
-- 🔭 I’m currently working on Vue,java and python
-- 🌱 I’m currently learning HarmonyOS and Springboot
+- 🔭 I’m currently working on Vue,Java and Golang
+- 🌱 I’m currently learning Beego, Django and Springboot
 - 💬 Ask me about anything!
 - 📫 How to reach me: i@southyang.cn
 <!-- - 👯 I’m looking to collaborate on ... -->
